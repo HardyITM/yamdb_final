@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    image: hardyitm/yamdb:latest
+    image: hardyitm/yamdb_final:latest
     restart: always
     volumes:
       - static_value:/app/static/
