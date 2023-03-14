@@ -1,5 +1,6 @@
 [![Django-app workflow](https://github.com/hardyitm/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/hardyitm/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
+Проект находится на сервере: http://158.160.25.53 
 # YaMDb
 
 YaMDb - база данных, которая собирает отзывы о различных произведениях. Произведения делятся на категории: «Книги», «Фильмы», «Музыка». При необходимости, список категорий может быть расширен администратором. Пользователи могут оставлять рецензии на произведения и ставить оценки.
